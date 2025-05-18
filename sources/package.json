@@ -1,0 +1,13 @@
+{
+  "name": "sources",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "xstate": "^5.19.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
